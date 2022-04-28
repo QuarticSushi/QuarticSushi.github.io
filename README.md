@@ -1,3 +1,3 @@
 ## QuarticSushi
 
-this is a test. helllllo
+Hi. This is my website I guess. Sounds fun.
